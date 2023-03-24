@@ -1,6 +1,4 @@
 ### Welcome to my repository!
-Not much to see here though :/
-Not yet B)
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jespeste)](https://github.com/LordDashMe/github-contribution-stats/)
 
 
