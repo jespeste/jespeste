@@ -5,7 +5,7 @@
 ## The last song I was listening to:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21m34vjkksqu4oilqbstcs5hi&cover_image=true&theme=default&show_offline=false&background_color=488d2a&interchange=false&bar_color=000000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-## Actually, I am a gamer
+| ## Actually, I am a gamer
 Truly I enjoy games. That is why I have a gif perfectly encapsulating my rage when I find out there's a bug.
 ![Alt Text](https://raw.githubusercontent.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/master/assets/1936.gif)
 <!--
