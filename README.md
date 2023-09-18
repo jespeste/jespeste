@@ -1,4 +1,4 @@
-### Welcome to my repository!
+## Yup, this is my repository. Not that much to say about it. Kinda cool though.
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jespeste)](https://github.com/LordDashMe/github-contribution-stats/)
 
 
