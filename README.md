@@ -6,6 +6,10 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21m34vjkksqu4oilqbstcs5hi&cover_image=true&theme=default&show_offline=false&background_color=488d2a&interchange=false&bar_color=000000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## Some of the projects I'm working on
+### JetLagS14 Solver
+I was watching JetLag and was wondering what the optimal route would look like. Turns out, that's an NP-Hard problem! But since I have a known gameboard, and it's not tooo big, I thought it would be fun to still try to find it.
+
+You can see the project [here](https://github.com/jespeste/JetLagS14)
 
 <!--
 **jespeste/jespeste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
