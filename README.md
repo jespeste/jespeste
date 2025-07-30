@@ -11,6 +11,13 @@ I was watching JetLag and was wondering what the optimal route would look like. 
 
 You can see the project [here](https://github.com/jespeste/JetLagS14)
 
+### Personal finance desktop application in C
+I really don't know how C works, and I would really like to create a decent desktop application. GTK to the rescue!
+
+Will be done in GTK3 for easier access to documentation.
+
+You can see the project [\<COMING SOON\>](https://google.com)
+
 <!--
 **jespeste/jespeste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
